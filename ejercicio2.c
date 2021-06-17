@@ -7,11 +7,11 @@ teniendo en cuenta que por cada partido ganado obtendrá 3 puntos,
 empatado 1 punto y perdido 0 puntos.
 */
 
-main() 
+int main() 
 {
 
   
-
+  return 0;
 }
 
 
