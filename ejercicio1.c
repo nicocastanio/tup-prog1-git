@@ -1,5 +1,5 @@
-// 1) Crear un programa que permita convertir un importe en dolares a pesos. 
 #include <stdio.h>
+// 1) Crear un programa que permita convertir un importe en dolares a pesos. 
 
 main() 
 {

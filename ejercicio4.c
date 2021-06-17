@@ -1,11 +1,11 @@
+#include <stdio.h>
+#include <stdbool.h>
 /*
 4) Crea un programa que pida al usuario su código de usuario (un número entero) 
 y su contraseña numérica (otro número entero), y no le permita seguir 
 hasta que introduzca como código de usuario 1024 y como contraseña 4567
 
 */
-#include <stdio.h>
-#include <stdbool.h>
 
 main() 
 {

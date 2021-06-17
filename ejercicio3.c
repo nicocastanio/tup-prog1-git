@@ -1,9 +1,9 @@
+#include <stdio.h>
 /*
 3) Se ingresan números por teclado mientras que la suma de los mismos 
 sea menor o igual a 100. 
 Se debe informar la cantidad de números ingresados.
 */
-#include <stdio.h>
 // #define  VALOR_MAXIMO = 100; 
 
 main() 
